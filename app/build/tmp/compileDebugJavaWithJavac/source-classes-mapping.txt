@@ -1,0 +1,42 @@
+com/example/myapplication/chat.java
+ com.example.myapplication.chat
+com/example/myapplication/findContacts.java
+ com.example.myapplication.findContacts
+com/example/myapplication/imageDisplay.java
+ com.example.myapplication.imageDisplay
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/addContact.java
+ com.example.myapplication.addContact
+ com.example.myapplication.addContact$1
+ com.example.myapplication.addContact$1$1
+ com.example.myapplication.addContact$2
+ com.example.myapplication.addContact$FindFriendsViewHolder
+com/example/myapplication/createAccount.java
+ com.example.myapplication.createAccount
+com/example/myapplication/contactPage.java
+ com.example.myapplication.contactPage
+ com.example.myapplication.contactPage$1
+ com.example.myapplication.contactPage$2
+ com.example.myapplication.contactPage$3
+ com.example.myapplication.contactPage$3$1
+com/example/myapplication/register.java
+ com.example.myapplication.register
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+com/example/myapplication/homeScreen.java
+ com.example.myapplication.homeScreen
+ com.example.myapplication.homeScreen$1
+ com.example.myapplication.homeScreen$1$1
+ com.example.myapplication.homeScreen$ContactsViewHolder
+com/example/myapplication/messages.java
+ com.example.myapplication.messages
+ com.example.myapplication.messages$1
+com/example/myapplication/chatAdapter.java
+ com.example.myapplication.chatAdapter
+ com.example.myapplication.chatAdapter$1
+ com.example.myapplication.chatAdapter$2
+ com.example.myapplication.chatAdapter$2$1
+ com.example.myapplication.chatAdapter$2$2
+ com.example.myapplication.chatAdapter$ChatViewHolder
